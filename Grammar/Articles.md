@@ -41,9 +41,3 @@ For example:
 > ENG: A tree  
 > VDT: Dʒundy arbur  
 > GLS: article a animate dim/ noun tree  
-
-
-
-
-
-
