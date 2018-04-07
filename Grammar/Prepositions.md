@@ -1,5 +1,11 @@
 ## Prepositions
 
+Prepositions also count as particles and follow the particle stacking rule and may connect with other particles. However this is mandatory, it can avoid the rule if it causes confusion. The writer may add backslashes to separate the words together.
+
+Example:
+> VDT: usftaustekhell mond  
+> ENG: towards to the under world
+
 English | Vendict |
 --- | --- |
 aboard | dan
