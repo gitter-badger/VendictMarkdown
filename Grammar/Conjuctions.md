@@ -8,8 +8,8 @@ Example:
 
 English | Vendict | Subtype
 --- | --- | --- |
-though |    | Concession
-altough |    | /
+though | wehl | Concession
+although | wohl | /
 while | ontem | /
 if | enkt | Condition
 and if | ankt | /
