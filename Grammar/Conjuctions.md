@@ -1,9 +1,15 @@
 ## Conjunctions
 
+Conjunctions also count as particles and follow the particle stacking rule and may connect with other particles. However this is mandatory, it can avoid the rule if it causes confusion. The writer may add backslashes to separate the words together.
+
+Example:
+> VDT: anktencascot-temp   
+> ENG: and if in case that happens  
+
 English | Vendict | Subtype
 --- | --- | --- |
-though |    | Concession
-altough |    | /
+though | wehl | Concession
+although | wohl | /
 while | ontem | /
 if | enkt | Condition
 and if | ankt | /
