@@ -18,12 +18,12 @@ unless | ønkt | /
 in case | encas | /
 than | geich | Comparision
 that | cot | /
-rather than |   | /
-whether |    | /
-wherear | wocume | /
+rather than | sokt | /
+whether | odt | /
+whereas | wocume | /
 after | aft | /
-as long as |    | /
-as soon as |    | /
+as long as | demigire | /
+as soon as | sebasire | /
 before | apre | /
 by the time | aleteytemps | /
 now that | ment | /
