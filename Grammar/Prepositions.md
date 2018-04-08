@@ -14,31 +14,31 @@ above | āverse
 across | sur
 after | aft
 against | apit
-along |    
+along |  issh
 amid | mīnt
 among | nīnf
-anti |   
-around |    
+anti | høz
+around |  entour
 as | icom
 at | ef
 before | apre
 behind | deri
-below |    
+below | deshuf
 beneath | hull
 beside | code
-besides |    
-between |    
-beyond |    
+besides | presnt
+between | nīnft
+beyond | suitsur
 but | mit
 by | ale
-concerning |   
-considering |   
+concerning | cadret
+considering | cændret
 despite | depit
-down |    
-during |    
-except |    
-excluding |
-following |   
+down | daun
+during | tʒrend
+except | sauf
+excluding | exilre
+following | ikre
 for | fer
 from | frum
 from (place) | frot
@@ -47,20 +47,20 @@ inside | seft
 into | enper
 like | com
 minus | dʒen
-near |   
+near | pres
 of | von
 off | voff
 on | af
 onto | afen
-opposite |   
+opposite | ahøz
 outside | ozenderi
 over | ensuit
-past |   
+past | casuit
 per | parun
-plus |   
-regarding |   
-round |   
-save |   
+plus | plus  
+regarding | codret
+round | tour  
+save | kip
 since | cintem
 than | giech
 through | perth
@@ -73,7 +73,7 @@ underneath | hūll
 unlike | cøm
 until | dʒtem
 up | averse
-upon |
+upon | auf
 versus | verse
 via | en ale
 with | au
