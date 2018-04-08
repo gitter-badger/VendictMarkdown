@@ -9,7 +9,8 @@ Glides | j, w, y
 Liquids | l, r
 Nasals | n, m
 Fricatives | f, h, v, s, z
-Stops | t, d, k, g, p, b, c
+Stops | t, d : k, g : p, b : c
+Stops | k, g : t, d : p, b : c
 
 Sonorants | Obstruents
 --- | ---
@@ -29,6 +30,10 @@ Rules:
 + Sonorants and another sonorant cannot cluster unless they are the same sound, then converted to a vowel and a macron
 + Vowels can break the sonority rule and can be clustered. Example: ent**ou**r
 + Obstruents and another obstruent can cluster, except if they are in the same "article of articulation" family
++ If the above rule is ever broken (happens when particles combine)add a ' to separate them, the previous letter to the ' gets a short dummy vowel added to it
++ On onsets and codas there can only be 2 stops each and must follow the hierachry: k/g > t/d
++ Bilabial stops disallow any other stops from clustering with them
++ Onsets and codas can only contain either voice or voiceless stops, ktp/gdb is totally possible. That means if a stop contains both, they have a ' added between them to separate
 + Sonority reversals can be done with a limit of one
 + The onset can start with any sound, however it cannot be [y]
 + The onset must be equal or higher
@@ -40,3 +45,4 @@ Rules:
 + Glides and liquids cannot ever cluster
 + The ʒ or j glide can break sonority rule
 + ʒ can never be the first or third sound in a syllable and must be bounded to: dʒ, lʒ, and tʒ
++ The C stop can never be clustered with another stop, fricative, and nasal
