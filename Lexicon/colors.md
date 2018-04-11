@@ -20,6 +20,9 @@ Black | Sumber | Sombai
 Beige | Amarul | Amarula
 Brown | Escōtch | Scoth
 
+
+Properties to color
+
 Properties | Vendict
 --- | ---
 Transparent | Klar
