@@ -25,6 +25,7 @@ Properties to color
 
 Properties | Vendict
 --- | ---
+Properties | Vendict
 Transparent | Klar
 Semi-transparent | Haklar
 Opaque | Unklar
