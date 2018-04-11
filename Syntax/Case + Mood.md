@@ -39,7 +39,7 @@ Aversive: something to be avoided
 >N(aversive), add 'øf' or 'gøf  
 	
 Private: something that lacks     
->N(private), add 'øzent' if noun ends in vowel, replace that  
+>N (private), add 'not'
 
 ### EVIDENCE
 Inferencial evidence now needs to use the inferencial mood  
